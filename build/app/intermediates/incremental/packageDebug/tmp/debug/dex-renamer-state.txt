@@ -1,0 +1,4 @@
+#Wed Sep 15 15:07:44 BRT 2021
+base.0=/home/iaggo/Documents/KINGDRA/outlay/tuition/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
